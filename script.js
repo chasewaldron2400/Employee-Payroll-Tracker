@@ -4,9 +4,9 @@ let employeesArray = []
 // Collect employee data
 const collectEmployees = function() {
   // TODO: Get user input to create and return an array of employee objects
-  let firstNameprompt = prompt("enter first name");
-  let lastNameprompt = prompt("enter last name");
-  let salaryprompt = prompt("enter salary");
+  let firstNameprompt = prompt("Enter First Name");
+  let lastNameprompt = prompt("Enter Last Name");
+  let salaryprompt = prompt("Enter Salary");
   console.log(salaryprompt)
   console.log(firstNameprompt)
   console.log(lastNameprompt)
@@ -16,7 +16,7 @@ const collectEmployees = function() {
     salary:salaryprompt
   }
   employeesArray.push(employeeobject)
-  if (confirm("?add another employee?")) {
+  if (confirm("Add Another Employee?")) {
     collectEmployees()
   }
   return employeesArray
