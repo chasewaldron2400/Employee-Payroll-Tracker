@@ -1,12 +1,15 @@
 # Week 3 Challenge
+
 Online Employee Payroll Tracker
 
 
 ## Description
 
 This project is an online employee payroll tracker made with javascript. Enter in an employees first name, last name, and salary to enter the data into the table.
+![alt text](image.png)
 
 ## Table of Contents
+
 Employee Payroll Tracker
 
 ## Installation
@@ -19,7 +22,9 @@ This can be used for all companies who utilize a payroll system.
 
 ## Credits
 
-https://github.com/chasewaldron2400
+- https://github.com/chasewaldron2400
+- https://chasewaldron2400.github.io/employeePayrollTracker/
+
 
 ## Licsense 
 
